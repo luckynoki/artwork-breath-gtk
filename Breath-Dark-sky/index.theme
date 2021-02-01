@@ -1,9 +1,9 @@
 [X-GNOME-Metatheme]
-Name=Breath-Dark
+Name=Breath-Dark-sky
 Type=X-GNOME-Metatheme
-Comment=Breath-Dark gtk theme
+Comment=Breath-Dark-sky gtk theme
 Encoding=UTF-8
-GtkTheme=Breath-Dark
+GtkTheme=Breath-Dark-sky
 MetacityTheme=Breeze
 IconTheme=Breath-Dark
 CursorTheme=Breeze
